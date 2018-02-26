@@ -1,61 +1,61 @@
-#EXTM3U 
-#EXTINF:0,tvg-name="South Park 24/7"group-title="24/7 Channels"
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/spark.m3u8
-#EXTINF:0,The Office 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/theoffice.m3u8
-#EXTINF:0,Family Guy 24/7
-http://163.172.45.51:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/familyguy.m3u8
-#EXTINF:0,Futurama 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/xfuturama.m3u8
-#EXTINF:0,American Dad 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/americanxxx.m3u8
-#EXTINF:0,The Simpsons 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/simpsons.m3u8
-#EXTINF:0,Archer 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/archerxhd.m3u8
-#EXTINF:0,King of the Hill 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/kinghillhxd.m3u8
-#EXTINF:0,The Cleveland Show 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/xxcleveland.m3u8
-#EXTINF:0,Aqua Teen Hunger Force 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/aquasx.m3u8
-#EXTINF:0,Mad Men 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/xmadxmen.m3u8
-#EXTINF:0,Workaholics 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/workaholics.m3u8
-#EXTINF:0,House 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/house.m3u8
-#EXTINF:0,Friends 24/7
-http://sv2.stream4free.live/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/friends.m3u8
-#EXTINF:0,Scrubs 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/scrubs.m3u8
-#EXTINF:0,The Big Bang Theory 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/tbbangtheory.m3u8
-#EXTINF:0,How I Met Your Mother 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/himym.m3u8
-#EXTINF:0,Community 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/community.m3u8
-#EXTINF:0,Game of Thrones 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/gamehd.m3u8
-#EXTINF:0,Walking Dead 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/xxwalkingdead.m3u8
-#EXTINF:0,Breaking Bad 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/s4fbreakxbad.m3u8
-#EXTINF:0,It's Always Sunny in Philadelphia 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/sunny.m3u8
-#EXTINF:0,Seinfeld 24/7
-http://sv2.stream4free.live/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/seinfeld.m3u8
-#EXTINF:0,Rick and Morty 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/rick.m3u8
-#EXTINF:0,Adventure Time 24/7
+#EXTM3U
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Adventure Time 24/7"  group-title="24/7 Channels",Adventure Time 24/7
 http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/adventure.m3u8
-#EXTINF:0,LOST 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/losts4f.m3u8
-#EXTINF:0,Weeds 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/freeweed.m3u8
-#EXTINF:0,Better Call Saul 24/7
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="American Dad 24/7"  group-title="24/7 Channels",American Dad 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/americanxxx.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Aqua Teen Hunger Force 24/7"  group-title="24/7 Channels",Aqua Teen Hunger Force 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/aquasx.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Archer 24/7"  group-title="24/7 Channels",Archer 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/archerxhd.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Better Call Saul 24/7"  group-title="24/7 Channels",Better Call Saul 24/7
 http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/saul.m3u8
-#EXTINF:0,House of Cards 24/7
-http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/housecard.m3u8
-#EXTINF:0,Bob's Burgers 24/7
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="The Big Bang Theory 24/7"  group-title="24/7 Channels",The Big Bang Theory 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/tbbangtheory.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bob's Burgers 24/7"  group-title="24/7 Channels",Bob's Burgers 24/7
 http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/s4fbobsburger.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Breaking Bad 24/7"  group-title="24/7 Channels",Breaking Bad 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/s4fbreakxbad.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="The Cleveland Show 24/7"  group-title="24/7 Channels",The Cleveland Show 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/xxcleveland.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Community 24/7"  group-title="24/7 Channels",Community 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/community.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Family Guy 24/7"  group-title="24/7 Channels",Family Guy 24/7
+http://163.172.45.51:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/familyguy.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Friends 24/7"  group-title="24/7 Channels",Friends 24/7
+http://sv2.stream4free.live/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/friends.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Futurama 24/7"  group-title="24/7 Channels",Futurama 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/xfuturama.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Game of Thrones 24/7"  group-title="24/7 Channels",Game of Thrones 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/gamehd.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="House 24/7"  group-title="24/7 Channels",House 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/house.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="House of Cards 24/7"  group-title="24/7 Channels",House of Cards 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/housecard.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="How I Met Your Mother 24/7"  group-title="24/7 Channels",How I Met Your Mother 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/himym.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="It's Always Sunny in Philadelphia 24/7"  group-title="24/7 Channels",It's Always Sunny in Philadelphia 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/sunny.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="King of the Hill 24/7"  group-title="24/7 Channels",King of the Hill 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/kinghillhxd.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="LOST 24/7"  group-title="24/7 Channels",LOST 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/losts4f.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mad Men 24/7"  group-title="24/7 Channels",Mad Men 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/xmadxmen.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="The Office 24/7"  group-title="24/7 Channels",The Office 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/theoffice.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Rick and Morty 24/7"  group-title="24/7 Channels",Rick and Morty 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/rick.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Scrubs 24/7"  group-title="24/7 Channels",Scrubs 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/scrubs.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Seinfeld 24/7"  group-title="24/7 Channels",Seinfeld 24/7
+http://sv2.stream4free.live/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/seinfeld.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="The Simpsons 24/7"  group-title="24/7 Channels",The Simpsons 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/simpsons.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="South Park 24/7"  group-title="24/7 Channels",South Park 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/spark.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="The Walking Dead 24/7"  group-title="24/7 Channels",The Walking Dead 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/xxwalkingdead.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Weeds 24/7"  group-title="24/7 Channels",Weeds 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/freeweed.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Workaholics 24/7"  group-title="24/7 Channels",Workaholics 24/7
+http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/workaholics.m3u8
