@@ -1,4 +1,4 @@
-#EXTM3U $ExtFilter="24/7 Channels"
+#EXTM3U group-title="24/7 Channels"
 #EXTINF:0,South Park 24/7
 http://51.15.184.17:8080/f34ad602da166d932281cd4f4aacca872d1c14f7b5afd253d602d32fdcab7423/hls/spark.m3u8
 #EXTINF:0,The Office 24/7
